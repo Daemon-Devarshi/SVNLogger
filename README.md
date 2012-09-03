@@ -1,4 +1,4 @@
 SVNLogger
 =========
 
-Simple application using svn log command to identify files changed during a date range
+It is a simple application which uses svn log command to identify files changed between a date range.
